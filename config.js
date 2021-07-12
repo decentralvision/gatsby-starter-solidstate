@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png', // This path is subpath of your hosting https://domain/portfolio
   heading: 'Tom K',
-  subHeading: "I'm creating secure, blazing fast web applications for the next generation of consumer-facing companies",
+  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
   // social
   socialLinks: [
     {
@@ -16,8 +16,16 @@ module.exports = {
       name: 'Github',
       url: 'https://github.com/decentralvision',
     },
-
-
+    {
+      icon: 'fa-twitter',
+      name: 'Twitter',
+      url: '',
+    },
+    {
+      icon: 'fa-facebook',
+      name: 'Facebook',
+      url: '',
+    },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
