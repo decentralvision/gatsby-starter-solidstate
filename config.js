@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png', // This path is subpath of your hosting https://domain/portfolio
   heading: 'Tom K',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  subHeading: "Full time Web Developer. I'm creating secure, blazing fast web applications for the next generation of consumer-facing companies",
   // social
   socialLinks: [
     {
