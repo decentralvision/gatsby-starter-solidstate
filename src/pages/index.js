@@ -16,7 +16,9 @@ const IndexPage = () => (
     <section id="banner">
       <div className="inner">
         <div className="logo">
-          <span className="icon fa-diamond"></span>
+        <a href="/#" className="image">
+            <img src={pic3} alt="" />
+          </a>
         </div>
         <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
