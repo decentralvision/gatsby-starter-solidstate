@@ -14,15 +14,25 @@ import config from '../../config';
 const IndexPage = () => (
   <Layout>
     <section id="banner">
-      <div className="inner">
-        <div className="logo">
-        <a href="/#" className="image">
-            <img src={pic3} alt="" />
-          </a>
+    <div className="inner">
+    <div className="row">
+      <div className="col-6 col-12-medium">
+
+          <div className="logo">
+
+          </div>
         </div>
-        <h2>{config.heading}</h2>
-        <p>{config.subHeading}</p>
+        
+      <div className="col-6 col-12-medium">
+        <a href="/#" className="image">
+        <iframe width="420" height="315" src="https://www.youtube.com/embed/FI-33UfqlT4"></iframe>
+        </a>
       </div>
+      </div>
+    
+    <h2>{config.heading}</h2>
+    <p>{config.subHeading}</p>
+    </div>
     </section>
 
     <section id="wrapper">

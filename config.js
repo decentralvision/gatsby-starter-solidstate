@@ -1,14 +1,14 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter SolidState', // <title>
-  manifestName: 'SolidState',
+  siteTitle: 'Spa Lifter', // <title>
+  manifestName: 'SpaLifter',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png', // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Tom K',
-  subHeading: "Full time Web Developer. I'm creating secure, blazing fast web applications for the next generation of consumer-facing companies",
+  heading: 'Spa Lifter',
+  subHeading: "Automated Spa Cover Lift - Remote Control Operation - Universal Fit For All Spa Covers",
   // social
   socialLinks: [
     {
