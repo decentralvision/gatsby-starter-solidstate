@@ -25,7 +25,7 @@ const IndexPage = () => (
         
       <div className="col-6 col-12-medium">
         <a href="/#" className="image">
-        <iframe width="420" height="315" src="https://www.youtube.com/embed/FI-33UfqlT4"></iframe>
+        <iframe width="99%" src="https://www.youtube.com/embed/FI-33UfqlT4"></iframe>
         </a>
       </div>
       </div>
